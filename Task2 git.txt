@@ -1,0 +1,5 @@
+git init Bash                                                
+git remote add bash https://github.com/NikitaMarinovich/bash
+README.md edited manually                                   
+git commit -m "readmy update"                 
+git push                    
