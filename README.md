@@ -2,10 +2,6 @@
 
 There some git commands that I used to create my GitHub portfolio.
 
-## Easy navigation
-
-- [Creating, cloning, pushing and pulling repositories](#task-1)
-- [Creating, adding remote repositories](#task-2)
 
 ## Task 1
 
