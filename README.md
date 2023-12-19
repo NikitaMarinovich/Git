@@ -14,8 +14,8 @@ There some git commands that I used to create my GitHub portfolio.
 git init Git                                          
 git clone git@github.com:testrusau/testrusau.git           
 cd testrusau                                                
-git push git@github.com:Nikita/testrusau.git main:main
-git commit -m "commited change description"                 
+git push git@github.com:NikitaMarinovich/testrusau.git main:main
+git commit -m "Readme update"                 
 git push 
 
 ```
