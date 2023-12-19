@@ -1,6 +1,6 @@
 #  git
 
-There some git commands that I used to create my GitHub portfolio. 
+There some git commands that I used to create my GitHub portfolio
 
 ## Easy navigation
 
